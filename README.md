@@ -1,20 +1,300 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Thite</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<!--
+  Vaishnavi Thite | GitHub Profile README
+  Repository: vaishnavithite17-lgtm/vaishnavithite17-lgtm
+  Theme: Icy blue • midnight navy • soft pastel • developer aesthetic
+-->
 
-- My top project -project 1 [SafeTriage](https://guileless-marigold-8ffcd7.netlify.app/)
+<div align="center">
 
-- project-2 [sankalp](https://sankalp-prototype-xi.vercel.app/feed)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DBEAFE,50:93C5FD,100:2563EB&text=VAISHNAVI%20THITE&fontSize=42&fontColor=102A43&fontAlignY=38&desc=building%20ideas%20into%20reality%20%F0%9F%92%BB&descAlignY=58&descSize=16" width="100%" alt="Vaishnavi Thite — developer profile banner"/>
 
-- 🤝 I’m looking for help with [meme-lens](https://meme-lens.vercel.app/)
+### `ECE @ IIIT Pune` · `Software Development` · `AI & ML`
 
-- 📫 How to reach me **vaishnavi.thite17@gmail.com**
+*curious mind, creative ideas, and a little too much blue 💙*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://github.com/vaishnavithite17-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+<a href="mailto:vaishnavi.thite17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20connect-BFDBFE?style=for-the-badge&logo=gmail&logoColor=1E3A8A" alt="Contact by email"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavithite17-lgtm&show_icons=true&locale=en&layout=compact" alt="vaishnavithite17-lgtm" /></p>
+</div>
 
+---
+
+<img align="right" width="145" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Pixel-style coding animation"/>
+
+### `> whoami`
+
+Hey! I'm **Vaishnavi**, an Electronics and Communication Engineering student at IIIT Pune who loves building software.
+
+I enjoy exploring the intersection of **full-stack development, AI-powered applications, and problem-solving**. I like taking an idea, figuring out how it should work, and turning it into something people can actually use.
+
+- 💻 Building web applications and practical software projects
+- 🧠 Practicing DSA in Java
+- 🤖 Exploring AI/ML integrations and intelligent systems
+- ☁️ Learning backend engineering, Docker and cloud fundamentals
+- 🎨 Interested in the creative side of technology, too
+
+> *One project, one problem, one lesson at a time.*
+
+<br clear="right"/>
+
+---
+
+## 🩵 A little corner of my projects
+
+*Different ideas, different technologies, one goal: keep building.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛡️ SafeTriage
+
+<a href="https://guileless-marigold-8ffcd7.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Open SafeTriage"/>
+</a>
+
+</div>
+
+**AI-Assisted Fraud Triage & Decision Support**
+
+A decision-support concept for transaction clearance, evidence-based investigation, and human review — with attention to uncertainty and potential false negatives.
+
+`AI` `Risk Analysis` `Decision Support`
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏙️ Sankalp
+
+<a href="https://sankalp-prototype-xi.vercel.app/feed">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Sankalp"/>
+</a>
+
+</div>
+
+**Civic-Tech Prototype**
+
+A community-focused application exploring ways to surface civic issues and support data-informed prioritization.
+
+`Web Development` `Mapping` `Civic Tech`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 😂 MemeLens
+
+<a href="https://meme-lens.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open MemeLens"/>
+</a>
+
+</div>
+
+**Meme Discovery & AI Explanations**
+
+A web application built around discovering memes and making their context and humor easier to understand.
+
+`Web Development` `AI Integration` `Search`
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔍 AI Code Reviewer
+
+<a href="https://github.com/vaishnavithite17-lgtm/AI-code-reviewer">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View AI Code Reviewer"/>
+</a>
+
+</div>
+
+**AI-Assisted Code Review**
+
+A project exploring AI-powered code feedback and review workflows.
+
+`Next.js` `AI Integration` `Web Development`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ☁️ Ecommerce Cloud CRUD API
+
+<a href="https://github.com/vaishnavithite17-lgtm/ecommerce-cloud-crud-api">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Ecommerce Cloud CRUD API"/>
+</a>
+
+</div>
+
+**Backend & Containerization**
+
+A product-management REST API project exploring CRUD operations, backend development and Docker.
+
+`Node.js` `Express` `Docker` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🖥️ Desktop Stickers Java
+
+<a href="https://github.com/vaishnavithite17-lgtm/desktop-stickers-java">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Desktop Stickers Java"/>
+</a>
+
+</div>
+
+**Java Desktop Utility**
+
+A desktop application for working with floating image stickers, with interactive positioning and resizing.
+
+`Java` `Swing` `OOP`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/vaishnavithite17-lgtm?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-DBEAFE?style=for-the-badge&logo=github&logoColor=1E3A8A" alt="Explore all repositories"/>
+</a>
+
+*More projects, experiments, and builds live in my repositories.*
+
+</div>
+
+---
+
+## 🎧 My developer toolkit
+
+*Tools I work with and continue to explore.*
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" alt="C, C++, Java, Python, JavaScript and TypeScript" />
+
+</td>
+<td align="center" width="33%">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light" alt="HTML, CSS, React and Next.js" />
+
+</td>
+<td align="center" width="33%">
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,supabase&theme=light" alt="Node.js, Express, MySQL, MongoDB, Firebase and Supabase" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=light" alt="Git, GitHub, Docker, Linux, Postman and VS Code" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub, but make it blue
+
+<div align="center">
+
+<a href="https://github.com/vaishnavithite17-lgtm">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavithite17-lgtm&show_icons=true&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&icon_color=3B82F6&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/vaishnavithite17-lgtm">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavithite17-lgtm&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=vaishnavithite17-lgtm&hide_border=true&background=EFF6FF&ring=2563EB&fire=60A5FA&currStreakLabel=1D4ED8&sideLabels=334155&currStreakNum=1E3A8A&sideNums=1E3A8A&dates=64748B" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishnavithite17-lgtm&theme=default" alt="GitHub contribution overview"/>
+
+</div>
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable. Language statistics reflect repository code, not necessarily proficiency.</sub>
+
+---
+
+## 🌱 Currently growing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Problem-solving
+
+- Data Structures & Algorithms
+- Java and coding practice
+- Writing cleaner, more efficient solutions
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Engineering
+
+- Full-stack development
+- Backend APIs and databases
+- Docker, Linux and cloud fundamentals
+- AI-powered application development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💌 Find me around the internet
+
+<div align="center">
+
+<a href="https://github.com/vaishnavithite17-lgtm">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-172554?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:vaishnavi.thite17@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20hello-DBEAFE?style=for-the-badge&logo=gmail&logoColor=1E3A8A" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,50:93C5FD,100:DBEAFE" width="100%" alt="Blue wave footer"/>
+
+**thanks for stopping by ♡**
+
+*stay curious. keep creating. ship something cool.*
+
+</div>

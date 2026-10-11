@@ -1,90 +1,92 @@
 <!--
-  Vaishnavi Thite | GitHub Profile README
-  Repository: vaishnavithite17-lgtm/vaishnavithite17-lgtm
-  Theme: Icy blue • midnight navy • soft pastel • developer aesthetic
+  VAISHNAVI THITE | GitHub Profile README
+  Aesthetic: ivory • icy blue • steel blue • midnight navy
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DBEAFE,50:93C5FD,100:2563EB&text=VAISHNAVI%20THITE&fontSize=42&fontColor=102A43&fontAlignY=38&desc=building%20ideas%20into%20reality%20%F0%9F%92%BB&descAlignY=58&descSize=16" width="100%" alt="Vaishnavi Thite — developer profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:EDF4FC,45:C5D9EF,75:7898BC,100:243F60&fontColor:243F60&fontSize=40&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%20%C2%B7%20%20AI%2FML%20%20%C2%B7%20%20CREATIVE%20TECH&descSize=12&descAlignY=60" width="100%" alt="Vaishnavi Thite profile banner"/>
 
-### `ECE @ IIIT Pune` · `Software Development` · `AI & ML`
+<br/>
 
-*curious mind, creative ideas, and a little too much blue 💙*
+# Vaishnavi Thite
+
+**ECE @ IIIT Pune · Software Developer · Creative Problem Solver**
+
+*Building thoughtful products at the intersection of software, AI, and creativity.*
 
 <br/>
 
 <a href="https://github.com/vaishnavithite17-lgtm">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-183153?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:vaishnavi.thite17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20connect-BFDBFE?style=for-the-badge&logo=gmail&logoColor=1E3A8A" alt="Contact by email"/>
+<img src="https://img.shields.io/badge/Email-DCE8F5?style=flat-square&logo=gmail&logoColor=183153" alt="Email"/>
+</a>
+<a href="https://github.com/vaishnavithite17-lgtm?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-7898BC?style=flat-square&logo=git&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
 
 ---
 
-<img align="right" width="145" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Pixel-style coding animation"/>
+<div align="center">
 
-### `> whoami`
+`01 — ABOUT ME` &nbsp; ─────────────────────────────
 
-Hey! I'm **Vaishnavi**, an Electronics and Communication Engineering student at IIIT Pune who loves building software.
+</div>
 
-I enjoy exploring the intersection of **full-stack development, AI-powered applications, and problem-solving**. I like taking an idea, figuring out how it should work, and turning it into something people can actually use.
+### A little about me
 
-- 💻 Building web applications and practical software projects
-- 🧠 Practicing DSA in Java
-- 🤖 Exploring AI/ML integrations and intelligent systems
-- ☁️ Learning backend engineering, Docker and cloud fundamentals
-- 🎨 Interested in the creative side of technology, too
+I'm an Electronics and Communication Engineering student at **IIIT Pune**, exploring the world of software engineering through hands-on projects.
 
-> *One project, one problem, one lesson at a time.*
+I enjoy turning ideas into useful applications, experimenting with AI-powered features, and understanding how things work beyond the surface.
 
-<br clear="right"/>
+- ⌘ &nbsp; Building full-stack applications and backend APIs
+- ◈ &nbsp; Exploring AI/ML and intelligent decision-support systems
+- ⌘ &nbsp; Practicing Data Structures & Algorithms in Java
+- ◇ &nbsp; Learning Docker, Linux, and cloud fundamentals
+- ✳ &nbsp; Interested in the intersection of technology and creativity
 
 ---
 
-## 🩵 A little corner of my projects
+<div align="center">
 
-*Different ideas, different technologies, one goal: keep building.*
+`02 — SELECTED WORK` &nbsp; ────────────────────────
+
+</div>
+
+## Projects I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🛡️ SafeTriage
-
 <a href="https://guileless-marigold-8ffcd7.netlify.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Open SafeTriage"/>
+<img src="https://img.shields.io/badge/01%20%2F%20SAFETRIAGE-LIVE%20DEMO-243F60?style=flat-square" alt="SafeTriage live demo"/>
 </a>
 
-</div>
+### SafeTriage
 
 **AI-Assisted Fraud Triage & Decision Support**
 
-A decision-support concept for transaction clearance, evidence-based investigation, and human review — with attention to uncertainty and potential false negatives.
+A system concept for transaction clearance, evidence-based investigation, and human review, with attention to uncertainty and potential false negatives.
 
 `AI` `Risk Analysis` `Decision Support`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🏙️ Sankalp
-
 <a href="https://sankalp-prototype-xi.vercel.app/feed">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Sankalp"/>
+<img src="https://img.shields.io/badge/02%20%2F%20SANKALP-LIVE%20DEMO-7898BC?style=flat-square" alt="Sankalp live demo"/>
 </a>
 
-</div>
+### Sankalp
 
 **Civic-Tech Prototype**
 
-A community-focused application exploring ways to surface civic issues and support data-informed prioritization.
+A community-focused application exploring civic issue reporting and data-informed prioritization.
 
 `Web Development` `Mapping` `Civic Tech`
 
@@ -93,38 +95,28 @@ A community-focused application exploring ways to surface civic issues and suppo
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 😂 MemeLens
-
 <a href="https://meme-lens.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open MemeLens"/>
+<img src="https://img.shields.io/badge/03%20%2F%20MEMELENS-LIVE%20DEMO-7898BC?style=flat-square" alt="MemeLens live demo"/>
 </a>
 
-</div>
+### MemeLens
 
 **Meme Discovery & AI Explanations**
 
-A web application built around discovering memes and making their context and humor easier to understand.
+A web application exploring meme discovery and AI-assisted explanations of online humor.
 
-`Web Development` `AI Integration` `Search`
+`AI Integration` `Search` `Web Development`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🔍 AI Code Reviewer
-
 <a href="https://github.com/vaishnavithite17-lgtm/AI-code-reviewer">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View AI Code Reviewer"/>
+<img src="https://img.shields.io/badge/04%20%2F%20AI%20CODE%20REVIEWER-SOURCE-243F60?style=flat-square" alt="AI Code Reviewer source"/>
 </a>
 
-</div>
+### AI Code Reviewer
 
-**AI-Assisted Code Review**
-
-A project exploring AI-powered code feedback and review workflows.
+An application exploring AI-assisted code feedback and review workflows.
 
 `Next.js` `AI Integration` `Web Development`
 
@@ -133,40 +125,50 @@ A project exploring AI-powered code feedback and review workflows.
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### ☁️ Ecommerce Cloud CRUD API
-
 <a href="https://github.com/vaishnavithite17-lgtm/ecommerce-cloud-crud-api">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Ecommerce Cloud CRUD API"/>
+<img src="https://img.shields.io/badge/05%20%2F%20CLOUD%20CRUD%20API-SOURCE-243F60?style=flat-square" alt="Cloud CRUD API source"/>
 </a>
 
-</div>
+### Ecommerce Cloud CRUD API
 
-**Backend & Containerization**
-
-A product-management REST API project exploring CRUD operations, backend development and Docker.
+A product-management REST API project focused on backend operations and containerization.
 
 `Node.js` `Express` `Docker` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🖥️ Desktop Stickers Java
-
 <a href="https://github.com/vaishnavithite17-lgtm/desktop-stickers-java">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Desktop Stickers Java"/>
+<img src="https://img.shields.io/badge/06%20%2F%20DESKTOP%20STICKERS-SOURCE-7898BC?style=flat-square" alt="Desktop Stickers source"/>
 </a>
 
-</div>
+### Desktop Stickers Java
 
-**Java Desktop Utility**
-
-A desktop application for working with floating image stickers, with interactive positioning and resizing.
+A desktop utility for displaying, moving, and resizing floating image stickers.
 
 `Java` `Swing` `OOP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Task Enforcer
+
+A personal productivity application concept focused on task tracking, check-ins, and accountability.
+
+`Next.js` `Supabase` `Web Development`
+
+</td>
+<td width="50%" valign="top">
+
+### Tic-Tac-Toe
+
+A smaller project exploring game logic and interactive programming.
+
+<a href="https://github.com/vaishnavithite17-lgtm?tab=repositories">
+View projects and source code →
+</a>
 
 </td>
 </tr>
@@ -175,49 +177,51 @@ A desktop application for working with floating image stickers, with interactive
 <div align="center">
 
 <a href="https://github.com/vaishnavithite17-lgtm?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-DBEAFE?style=for-the-badge&logo=github&logoColor=1E3A8A" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-183153?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
-
-*More projects, experiments, and builds live in my repositories.*
 
 </div>
 
 ---
 
-## 🎧 My developer toolkit
+<div align="center">
 
-*Tools I work with and continue to explore.*
+`03 — TOOLKIT` &nbsp; ──────────────────────────────
+
+</div>
+
+## Technologies & tools
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**LANGUAGES**
+**01 / LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" alt="C, C++, Java, Python, JavaScript and TypeScript" />
-
-</td>
-<td align="center" width="33%">
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light" alt="HTML, CSS, React and Next.js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" alt="Programming languages"/>
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**BACKEND & DATA**
+**02 / FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,supabase&theme=light" alt="Node.js, Express, MySQL, MongoDB, Firebase and Supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light" alt="Frontend technologies"/>
 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">
+<td width="50%" valign="top">
 
-**DEVELOPER TOOLS**
+**03 / BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=light" alt="Git, GitHub, Docker, Linux, Postman and VS Code" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,supabase&theme=light" alt="Backend and database tools"/>
+
+</td>
+<td width="50%" valign="top">
+
+**04 / DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=light" alt="Development tools"/>
 
 </td>
 </tr>
@@ -225,52 +229,64 @@ A desktop application for working with floating image stickers, with interactive
 
 ---
 
-## 📊 GitHub, but make it blue
+<div align="center">
+
+`04 — GITHUB ACTIVITY` &nbsp; ──────────────────────
+
+</div>
+
+## The numbers & the journey
 
 <div align="center">
 
 <a href="https://github.com/vaishnavithite17-lgtm">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavithite17-lgtm&show_icons=true&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&icon_color=3B82F6&rank_icon=github" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaishnavithite17-lgtm&show_icons=true&hide_border=true&bg_color=F3F6FA&title_color=243F60&text_color=46566B&icon_color=7898BC&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/vaishnavithite17-lgtm">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavithite17-lgtm&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&langs_count=8" alt="Most used programming languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavithite17-lgtm&layout=compact&hide_border=true&bg_color=F3F6FA&title_color=243F60&text_color=46566B&langs_count=8" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vaishnavithite17-lgtm&hide_border=true&background=EFF6FF&ring=2563EB&fire=60A5FA&currStreakLabel=1D4ED8&sideLabels=334155&currStreakNum=1E3A8A&sideNums=1E3A8A&dates=64748B" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vaishnavithite17-lgtm&hide_border=true&background=F3F6FA&ring=456B93&fire=7898BC&currStreakLabel=243F60&sideLabels=46566B&currStreakNum=243F60&sideNums=243F60&dates=718096" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishnavithite17-lgtm&theme=default" alt="GitHub contribution overview"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishnavithite17-lgtm&theme=default" alt="GitHub contribution summary"/>
 
 </div>
 
-<sub>Stats are generated by third-party services and may occasionally be unavailable. Language statistics reflect repository code, not necessarily proficiency.</sub>
+<sub>Statistics are generated by third-party services and may occasionally be unavailable. Language distribution reflects repository code, not skill level.</sub>
 
 ---
 
-## 🌱 Currently growing
+<div align="center">
+
+`05 — WHAT'S NEXT` &nbsp; ──────────────────────────
+
+</div>
+
+## Currently exploring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Problem-solving
+**⌘ Problem-solving**
 
 - Data Structures & Algorithms
-- Java and coding practice
-- Writing cleaner, more efficient solutions
+- Java coding practice
+- Efficient solutions and clean code
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Engineering
+**◇ Engineering**
 
 - Full-stack development
-- Backend APIs and databases
-- Docker, Linux and cloud fundamentals
-- AI-powered application development
+- Backend systems and APIs
+- Docker and cloud fundamentals
+- AI-powered applications
 
 </td>
 </tr>
@@ -278,23 +294,23 @@ A desktop application for working with floating image stickers, with interactive
 
 ---
 
-## 💌 Find me around the internet
-
 <div align="center">
 
-<a href="https://github.com/vaishnavithite17-lgtm">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-172554?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### Let's connect
+
 <a href="mailto:vaishnavi.thite17@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20hello-DBEAFE?style=for-the-badge&logo=gmail&logoColor=1E3A8A" alt="Email"/>
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-243F60?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vaishnavi"/>
+</a>
+<a href="https://github.com/vaishnavithite17-lgtm">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-DCE8F5?style=for-the-badge&logo=github&logoColor=183153" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,50:93C5FD,100:DBEAFE" width="100%" alt="Blue wave footer"/>
+<sub>Designed with intention · Built with curiosity · Always learning</sub>
 
-**thanks for stopping by ♡**
+<br/>
 
-*stay curious. keep creating. ship something cool.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:243F60,45:7898BC,75:C5D9EF,100:EDF4FC" width="100%" alt="Blue gradient footer"/>
 
 </div>
